@@ -26,7 +26,7 @@ public class Main {
             }
             i++;
         }
-        System.out.println("все четные числа списка \n" + even);
+//        System.out.println("все четные числа списка \n" + even);
         System.out.println("все нечетные числа списка \n" + odd);
 
         /*Задание2*/
